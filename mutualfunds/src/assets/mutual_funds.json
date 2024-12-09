@@ -1,0 +1,204 @@
+{
+    "MutualFunds": [
+        {
+            "Name": "Fund A",
+            "Type": "Equity",
+            "NAV": 100,
+            "Returns": {
+                "OneYearReturn": "3.6%",
+                "ThreeYearReturn": "6.6%",
+                "FiveYearReturn": "9%"
+            }
+        },
+        {
+            "Name": "Fund B",
+            "Type": "Debt",
+            "NAV": 200,
+            "Returns": {
+                "OneYearReturn": "4.5%",
+                "ThreeYearReturn": "7.8%",
+                "FiveYearReturn": "8.5%"
+            }
+        },
+        {
+            "Name": "Fund C",
+            "Type": "Balanced",
+            "NAV": 150,
+            "Returns": {
+                "OneYearReturn": "5.0%",
+                "ThreeYearReturn": "7.2%",
+                "FiveYearReturn": "10%"
+            }
+        },
+        {
+            "Name": "Fund D",
+            "Type": "Equity",
+            "NAV": 120,
+            "Returns": {
+                "OneYearReturn": "4.8%",
+                "ThreeYearReturn": "6.9%",
+                "FiveYearReturn": "9.5%"
+            }
+        },
+        {
+            "Name": "Fund E",
+            "Type": "Debt",
+            "NAV": 110,
+            "Returns": {
+                "OneYearReturn": "3.2%",
+                "ThreeYearReturn": "5.6%",
+                "FiveYearReturn": "8.0%"
+            }
+        },
+        {
+            "Name": "Fund F",
+            "Type": "Equity",
+            "NAV": 130,
+            "Returns": {
+                "OneYearReturn": "5.5%",
+                "ThreeYearReturn": "8.0%",
+                "FiveYearReturn": "12%"
+            }
+        },
+        {
+            "Name": "Fund G",
+            "Type": "Balanced",
+            "NAV": 140,
+            "Returns": {
+                "OneYearReturn": "4.0%",
+                "ThreeYearReturn": "6.5%",
+                "FiveYearReturn": "9.0%"
+            }
+        },
+        {
+            "Name": "Fund H",
+            "Type": "Debt",
+            "NAV": 90,
+            "Returns": {
+                "OneYearReturn": "3.8%",
+                "ThreeYearReturn": "6.2%",
+                "FiveYearReturn": "7.5%"
+            }
+        },
+        {
+            "Name": "Fund I",
+            "Type": "Equity",
+            "NAV": 180,
+            "Returns": {
+                "OneYearReturn": "6.0%",
+                "ThreeYearReturn": "8.5%",
+                "FiveYearReturn": "13%"
+            }
+        },
+        {
+            "Name": "Fund J",
+            "Type": "Balanced",
+            "NAV": 160,
+            "Returns": {
+                "OneYearReturn": "4.3%",
+                "ThreeYearReturn": "7.1%",
+                "FiveYearReturn": "10.5%"
+            }
+        },
+        {
+            "Name": "Fund K",
+            "Type": "Debt",
+            "NAV": 95,
+            "Returns": {
+                "OneYearReturn": "2.9%",
+                "ThreeYearReturn": "5.0%",
+                "FiveYearReturn": "6.5%"
+            }
+        },
+        {
+            "Name": "Fund L",
+            "Type": "Equity",
+            "NAV": 170,
+            "Returns": {
+                "OneYearReturn": "6.5%",
+                "ThreeYearReturn": "9.0%",
+                "FiveYearReturn": "14%"
+            }
+        },
+        {
+            "Name": "Fund M",
+            "Type": "Balanced",
+            "NAV": 100,
+            "Returns": {
+                "OneYearReturn": "3.7%",
+                "ThreeYearReturn": "6.4%",
+                "FiveYearReturn": "9.2%"
+            }
+        },
+        {
+            "Name": "Fund N",
+            "Type": "Debt",
+            "NAV": 105,
+            "Returns": {
+                "OneYearReturn": "3.4%",
+                "ThreeYearReturn": "5.7%",
+                "FiveYearReturn": "8.1%"
+            }
+        },
+        {
+            "Name": "Fund O",
+            "Type": "Equity",
+            "NAV": 145,
+            "Returns": {
+                "OneYearReturn": "5.8%",
+                "ThreeYearReturn": "8.2%",
+                "FiveYearReturn": "11.5%"
+            }
+        },
+        {
+            "Name": "Fund P",
+            "Type": "Balanced",
+            "NAV": 125,
+            "Returns": {
+                "OneYearReturn": "4.6%",
+                "ThreeYearReturn": "7.3%",
+                "FiveYearReturn": "10.0%"
+            }
+        },
+        {
+            "Name": "Fund Q",
+            "Type": "Debt",
+            "NAV": 85,
+            "Returns": {
+                "OneYearReturn": "3.0%",
+                "ThreeYearReturn": "5.4%",
+                "FiveYearReturn": "7.0%"
+            }
+        },
+        {
+            "Name": "Fund R",
+            "Type": "Equity",
+            "NAV": 190,
+            "Returns": {
+                "OneYearReturn": "6.8%",
+                "ThreeYearReturn": "9.5%",
+                "FiveYearReturn": "15%"
+            }
+        },
+        {
+            "Name": "Fund S",
+            "Type": "Balanced",
+            "NAV": 135,
+            "Returns": {
+                "OneYearReturn": "4.1%",
+                "ThreeYearReturn": "6.8%",
+                "FiveYearReturn": "9.3%"
+            }
+        },
+        {
+            "Name": "Fund T",
+            "Type": "Debt",
+            "NAV": 80,
+            "Returns": {
+                "OneYearReturn": "2.7%",
+                "ThreeYearReturn": "4.8%",
+                "FiveYearReturn": "6.3%"
+            }
+        }
+    ]
+}
